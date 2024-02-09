@@ -1,0 +1,11 @@
+.test{
+    background-color: aqua;
+    width: 30vh;
+    height: 30vh;
+    text-align: center;
+   margin: auto;
+}
+.test1 p {
+ margin-top: 100px;
+font-weight:600;
+}

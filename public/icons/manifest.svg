@@ -1,0 +1,26 @@
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  version="1.0"
+  width="400"
+  height="400"
+  viewBox="0 0 16 16"
+  fill="currentColor"
+  class="bi bi-file-earmark-code"
+>
+  <g
+    id="SVGRepo_bgCarrier"
+    stroke-width="0"></g
+  ><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g
+  ><g id="SVGRepo_iconCarrier">
+    <path
+      fill-rule="evenodd"
+      d="M6.996 0a.75.75 0 00-.53.22l-6.25 6.25a.75.75 0 00-.22.53v7.5a.75.75 0 00.75.75h12a.75.75 0 00.75-.75V2.75a.75.75 0 00-.75-.75H6.996zM0 1.5a1.5 1.5 0 011.5-1.5h6.25a.75.75 0 00.53-.22l6.25-6.25a1.5 1.5 0 00-2.122-2.122L6.006 6.126 1.872 1.993A1.5 1.5 0 000 3.115V14.25a1.5 1.5 0 01-1.5-1.5V1.5zM8.996 9a1 1 0 011 1v3a1 1 0 11-2 0v-3a1 1 0 011-1z"
+    />
+  </g>
+</svg>;
